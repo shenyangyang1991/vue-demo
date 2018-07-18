@@ -1,4 +1,4 @@
-# vue开发模版
+# vue
 
 > 构建vue项目demo模版 
 
